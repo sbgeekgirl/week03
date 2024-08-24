@@ -13,7 +13,7 @@ public class Week03ArraysAndMethodsLab {
 		//
 		// Arrays:
 		//
-		
+		// Add a test line
 		// 1. Create an array with the following values 1, 5, 2, 8, 13, 6
 		int [] nums = {1, 5, 2, 8, 13, 6};
 
